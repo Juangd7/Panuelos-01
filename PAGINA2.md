@@ -1,2 +1,2 @@
 Un día una señorita buscaba trabajo como sirvienta, ella era de otro país, un fama necesitaba sirvienta y amante de el fama le contó sobre la señorita, el contento y obedeciendo a la amante la contrato, la sirvienta feliz por el trabajo le agradeció a la amante de el fama ya que eran amigas, el fama solía usar pañuelos cada día y los tiraba al suelo, la sirvienta viendo que los pañuelos no estaban sucios del todo, los recogía y se los llevaba a la casa, así duro varios años hasta que el fama la descubrió robando una caja de pañuelos, ella le termino contando que ya tenía un negocio donde vendía muchos pañuelos y ella solo los tenía que lavar, la despidió el fama y nunca más supo de la amante y de la sirvienta.
-[ ir a Readmi](Readmi.md)
+[Ir al readme](README.md)
